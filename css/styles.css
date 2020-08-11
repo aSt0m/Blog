@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.subir {
+    margin-top: -50px;
+}
+
+.fa-facebook:hover {
+    color: #265B9D;
+}
+
+.fa-twitter:hover {
+    background: ;
+    color: #00ABE3;
+}
+
+.fa-google-plus:hover {
+    background: ;
+    color: #FE4934;
+}
+
+.fa-youtube:hover {
+    color: #E42012;
+}
+
+
+/* RColores redes sociaales */
+
+
+/*  #265B9D
+    #00ABE3
+    #FE4934
+    #E42012 */
